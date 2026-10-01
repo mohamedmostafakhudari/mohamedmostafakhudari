@@ -1,57 +1,33 @@
 # Hi, I'm Mohamed 👋
 
-I'm a junior full-stack developer currently focused on building real-world backend applications and improving my problem-solving skills.
+Backend-focused software developer dedicated to building reliable RESTful APIs, database-driven applications, and scalable server-side systems.
 
 ---
 
-## 🚀 What I'm Working On
+## 🎯 Current Focus
 
-- Building a **SaaS Dashboard** (Node.js, Express, MongoDB)
-- Practicing full-stack development with real project structure
-- Strengthening my understanding of backend architecture
+- 📚 Working through **The Odin Project** curriculum from the ground up to solidify computer science and web development foundations.
+- 🚀 Building a portfolio of practical, real-world projects with clean architecture and maintainable code.
+- ⚙️ Strengthening backend fundamentals: relational databases (PostgreSQL/SQL), API design, authentication, and testing.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- JavaScript (ES6+)
-- Node.js, Express
-- MongoDB
-- React
-- Tailwind / Bootstrap
-- REST APIs
-- Git & GitHub
+**Languages & Backend**
+- TypeScript, JavaScript (ES6+), SQL
+- Node.js, Express.js, RESTful APIs, WebSockets
+
+**Databases & ORMs**
+- PostgreSQL, Prisma ORM, MongoDB, Mongoose, Supabase
+
+**Queues & Tools**
+- Redis, BullMQ
+- Git, GitHub, Postman, VS Code
 
 ---
 
-## 🧠 Currently Learning
+## 📬 Connect with Me
 
-- Backend best practices and architecture
-- Authentication & authorization (JWT, RBAC)
-- Writing cleaner and more maintainable code
-- Connecting frontend with backend systems
-- Angular framework Basics
-
----
-
-## 📌 Projects
-
-- SaaS Dashboard (Work in Progress)
-
-> More projects coming soon as I continue learning and building.
-
----
-
-## 🎯 Goal
-
-To become a solid full-stack developer by focusing on building practical, real-world applications.
-
----
-
-## 📬 Contact
-
-- GitHub: https://github.com/mohamedmostafakhudari
-- LinkedIn: www.linkedin.com/in/mohamedmostafakhudari
-- Gmail: mohamedmostafakhudari@gmail.com
-- Dev.to: https://dev.to/mohamed_mostafa_dbae6649d
-- X (twitter): https://x.com/MohamedM_ostafa
+- **LinkedIn:** [linkedin.com/in/mohamedmostafakhudari](https://linkedin.com/in/mohamedmostafakhudari)
+- **Email:** [mohamedmostafakhudari@gmail.com](mailto:mohamedmostafakhudari@gmail.com)
